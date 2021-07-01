@@ -53,7 +53,7 @@ Added help URI to module.
 "
 
 # Minimum version of the Windows PowerShell engine required by this module
-PowerShellVersion = '5.1'
+PowerShellVersion = '7.0'
 
 # Cmdlets to export from this module
 CmdletsToExport = 'Start-ThreadJob'
